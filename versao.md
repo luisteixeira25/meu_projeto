@@ -3,6 +3,8 @@
 versao(){
     [[ -z "$*"]] && _c="Não á comentário para esse commit" || _c="$*"
     git add -A
-    git committ -m "${_c}"
+    git commit -m "${_c}"
 }
 
+# executar:
+source ~/.bashrc
