@@ -1,6 +1,7 @@
 Meu projeto
 Esse projeto é uma teste.
 Aprendendo a usar o git.
+instrutor: Marcos Oliveira
 
 ==========================================
 código python
