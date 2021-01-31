@@ -1,3 +1,7 @@
+# função criada por Marcos Oliveira do
+# site terminalroot.com.br
+# curso de git/github
+
 # função para git no ~bashrc
 
 versao(){
